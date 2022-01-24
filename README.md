@@ -30,3 +30,5 @@ My goal is to build a career for myself where I am challenged, where I get to us
 When I'm not coding... I'm playing video games, catching up on the best movies and television of the past year, or out exploring NOLA with my wife and searching for the best food and drinks that it can offer. 
 
 [![Colgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=colganmeanor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Colgan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colganmeanor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

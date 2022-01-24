@@ -1,4 +1,5 @@
 ### Howdy there, I'm Colgan 🤠 👋🏻
+(He/Him/His)
 
 <!--
 **colganmeanor/colganmeanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +18,8 @@ Here are some ideas to get you started:
 
 ## Important Links and Stuff
  
- - [LinkedIn Profile](https://www.linkedin.com/in/colgan-meanor/)
- - [GitHub Profile (wait a sec.. aren't you already here?](https://github.com/colganmeanor)
+ - **[LinkedIn Profile](https://www.linkedin.com/in/colgan-meanor/)**
+ - **[GitHub Profile (wait a sec.. aren't you already here?](https://github.com/colganmeanor)**
 
 ## About Me
 

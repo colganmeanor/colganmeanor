@@ -1,4 +1,4 @@
-### Howdy there, I'm Colgan 🤠 👋🏻
+### Howdy there, I'm Colgan 🤠 
 (He/Him/His)
 
 <!--
@@ -16,12 +16,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Important Links and Stuff
- 
- - **[LinkedIn Profile](https://www.linkedin.com/in/colgan-meanor/)**
- - **[GitHub Profile (wait a sec.. aren't you already here?](https://github.com/colganmeanor)**
+## ⚙️ Skills and Tech Goodies ⚙️
 
-## About Me
+**Languages:**
+ - Javascript
+ - HTML5
+ - CSS3/SASS
+
+**Frameworks and Libraries:**
+ - React
+   - Router
+   - Redux
+ 
+**Testing:**
+ 
+ - Cypress
+ - Mocha
+ - Chai
+
+**Workflow**
+
+ - Git
+ - GitHub
+ - Mac OS Command Line Terminal
+ - Webpack
+ - Atom
+ - Visual Studio Code
+ - Figma
+ - Trello
+ - Asana
+
+
+## 👋🏻 About Me 👋🏻
 
 I'm a front-end software developer, with former experience in technical support, marketing, and search engine optimization. I'm currently based out of New Orleans, LA, open to work opportunities here in NOLA and remote opportunities around the country. 
 
